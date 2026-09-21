@@ -1,0 +1,138 @@
+[
+  {
+    "path": "/tmp/aurel-assets/01-signature-squash.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 2023113,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.36547418277461086,
+    "alpha_bbox": [
+      0,
+      9,
+      1224,
+      1214
+    ]
+  },
+  {
+    "path": "/tmp/aurel-assets/02-maitake.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 1838178,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.39894411249233713,
+    "alpha_bbox": [
+      0,
+      80,
+      1201,
+      1238
+    ]
+  },
+  {
+    "path": "/tmp/aurel-assets/03-raviolo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 2231757,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3091421645312353,
+    "alpha_bbox": [
+      30,
+      39,
+      1224,
+      1214
+    ]
+  },
+  {
+    "path": "/tmp/aurel-assets/04-pear.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 2101846,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2895843349129675,
+    "alpha_bbox": [
+      0,
+      31,
+      1238,
+      1234
+    ]
+  },
+  {
+    "path": "/tmp/aurel-assets/05-interior.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "bytes": 2290198
+  },
+  {
+    "path": "/tmp/aurel-assets/06-chef.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "bytes": 2100136
+  },
+  {
+    "path": "/tmp/aurel-assets/07-ingredients.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "bytes": 3024917
+  },
+  {
+    "path": "/tmp/aurel-assets/08-exterior.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "bytes": 2955026
+  },
+  {
+    "path": "/tmp/aurel-assets/09-squash-cutaway.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 1750952,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.43506266390930204,
+    "alpha_bbox": [
+      80,
+      84,
+      1158,
+      1150
+    ]
+  }
+]
